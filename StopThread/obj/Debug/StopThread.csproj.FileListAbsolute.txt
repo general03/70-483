@@ -1,0 +1,6 @@
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\StopThread\bin\Debug\StopThread.exe.config
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\StopThread\bin\Debug\StopThread.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\StopThread\bin\Debug\StopThread.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\StopThread\obj\Debug\StopThread.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\StopThread\obj\Debug\StopThread.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\StopThread\obj\Debug\StopThread.pdb
