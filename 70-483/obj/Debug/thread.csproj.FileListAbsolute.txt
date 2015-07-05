@@ -1,5 +1,0 @@
-C:\Users\david\Documents\Informatique\Projects\VS\70-483\70-483\bin\Debug\70-483.exe
-C:\Users\david\Documents\Informatique\Projects\VS\70-483\70-483\bin\Debug\70-483.pdb
-C:\Users\david\Documents\Informatique\Projects\VS\70-483\70-483\obj\Debug\thread.csprojResolveAssemblyReference.cache
-C:\Users\david\Documents\Informatique\Projects\VS\70-483\70-483\obj\Debug\70-483.exe
-C:\Users\david\Documents\Informatique\Projects\VS\70-483\70-483\obj\Debug\70-483.pdb

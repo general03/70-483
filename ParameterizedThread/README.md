@@ -1,0 +1,1 @@
+﻿The using of Abort() to stop a thread is not a good way, use a shared variable instead

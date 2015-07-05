@@ -1,0 +1,5 @@
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParameterizedThread\bin\Debug\ParameterizedThread.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParameterizedThread\bin\Debug\ParameterizedThread.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParameterizedThread\obj\Debug\ParameterizedThread.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParameterizedThread\obj\Debug\ParameterizedThread.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParameterizedThread\obj\Debug\ParameterizedThread.pdb
