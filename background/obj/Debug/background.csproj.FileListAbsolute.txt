@@ -1,0 +1,4 @@
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\background\bin\Debug\background.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\background\bin\Debug\background.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\background\obj\Debug\background.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\background\obj\Debug\background.pdb
