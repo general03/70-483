@@ -1,0 +1,4 @@
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Pool\bin\Debug\Pool.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Pool\bin\Debug\Pool.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Pool\obj\Debug\Pool.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Pool\obj\Debug\Pool.pdb
