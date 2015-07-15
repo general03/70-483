@@ -1,0 +1,4 @@
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\bin\Debug\Parallel.cs.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\bin\Debug\Parallel.cs.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\obj\Debug\Parallel.cs.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\obj\Debug\Parallel.cs.pdb
