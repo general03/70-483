@@ -7,8 +7,8 @@
     <ProjectGuid>{9E7ED096-6777-4E25-9C6B-7BB90E5C1E77}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Parallel.cs</RootNamespace>
-    <AssemblyName>Parallel.cs</AssemblyName>
+    <RootNamespace>ParallelClass</RootNamespace>
+    <AssemblyName>ParallelClass</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

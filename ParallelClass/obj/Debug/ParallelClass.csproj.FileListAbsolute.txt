@@ -1,0 +1,8 @@
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\bin\Debug\ParallelClass.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\bin\Debug\ParallelClass.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\obj\Debug\ParallelClass.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\Parallel.cs\obj\Debug\ParallelClass.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParallelClass\obj\Debug\ParallelClass.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParallelClass\obj\Debug\ParallelClass.pdb
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParallelClass\bin\Debug\ParallelClass.exe
+C:\Users\david\Documents\Informatique\Projects\VS\70-483\ParallelClass\bin\Debug\ParallelClass.pdb

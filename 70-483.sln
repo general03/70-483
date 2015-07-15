@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopThread", "StopThread\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pool", "Pool\Pool.csproj", "{F5A3D75E-39B2-4F71-A3B7-D64B20179550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelClass", "Parallel.cs\ParallelClass.csproj", "{9E7ED096-6777-4E25-9C6B-7BB90E5C1E77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelClass", "ParallelClass\ParallelClass.csproj", "{9E7ED096-6777-4E25-9C6B-7BB90E5C1E77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
