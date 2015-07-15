@@ -7,7 +7,7 @@ namespace Pool
     {
         public static void LaunchThread()
         {
-            Task<int[]> parent = Task.Run(() =>
+            Task<int[]> parent = new Task<int[]>(() =>
             {
                 var results = new int[3];
                 new Task(() => results[0] = 1, TaskCreationOptions.AttachedToParent).Start();
@@ -16,6 +16,8 @@ namespace Pool
                 return results;
             });
 
+            parent.Start();
+            
             var finalTask = parent.ContinueWith(
                 parentTask =>
                 {
