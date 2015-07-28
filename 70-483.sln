@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelClass", "ParallelCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{35DFC036-F45C-4D7C-95C9-920691F7DACF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstraintsOnTypeParameters", "ConstraintsOnTypeParameters\ConstraintsOnTypeParameters.csproj", "{E660485A-085B-46B2-8A1B-22E56C3C2055}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{35DFC036-F45C-4D7C-95C9-920691F7DACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35DFC036-F45C-4D7C-95C9-920691F7DACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35DFC036-F45C-4D7C-95C9-920691F7DACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E660485A-085B-46B2-8A1B-22E56C3C2055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E660485A-085B-46B2-8A1B-22E56C3C2055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E660485A-085B-46B2-8A1B-22E56C3C2055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E660485A-085B-46B2-8A1B-22E56C3C2055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
